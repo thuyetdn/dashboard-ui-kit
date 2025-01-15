@@ -1,1 +1,8 @@
-<div>NavBar</div>
+<script>
+  const navBarConfigs = [
+    {}
+  ]
+</script>
+<div>
+  
+</div>
